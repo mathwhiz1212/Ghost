@@ -537,7 +537,7 @@
     },
     "notices": {
         "controllers": {
-            "newVersionAvailable": "Ghost {version} is available! Hot Damn. {link} to upgrade."
+            "newVersionAvailable": "Ghost {version} is available! {link} to upgrade."
         },
         "index": {
             "welcomeToGhost": "Welcome to Ghost.",
